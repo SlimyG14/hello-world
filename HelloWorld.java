@@ -9,4 +9,8 @@ public class  HelloWorld {
 	public int getI() {
 		return i;
 	}
+
+	public Something(String text){
+		System.out.println(text);
+	}
 }
