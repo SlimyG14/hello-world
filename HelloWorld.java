@@ -10,7 +10,5 @@ public class  HelloWorld {
 		return i;
 	}
 
-	public Something(String text){
-		System.out.println(text);
-	}
+	
 }
